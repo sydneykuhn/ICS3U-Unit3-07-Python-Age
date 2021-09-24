@@ -4,8 +4,6 @@
 # Created on: Sep 2020
 # This program tells you if you can a date womans grandchild based on age
 
-import random
-
 
 def main():
     # this function determines your answer
